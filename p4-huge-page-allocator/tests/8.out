@@ -1,0 +1,5 @@
+XV6_TEST_OUTPUT After first vmalloc huge, 4 MB - program base pages:0 huge pages:2
+XV6_TEST_OUTPUT After second vmalloc, 100 bytes - program base pages:8 huge pages:2
+XV6_TEST_OUTPUT After third vmalloc, 5000 bytes - program base pages:8 huge pages:2
+XV6_TEST_OUTPUT Freeing vmalloc allocations
+XV6_TEST_OUTPUT After freeing data - program base pages:8 huge pages:2

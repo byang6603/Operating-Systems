@@ -1,0 +1,7 @@
+XV6_TEST_OUTPUT After malloc with THP disabled, 1 MB - program base pages:257 huge pages:0
+XV6_TEST_OUTPUT Now enabling THP
+XV6_TEST_OUTPUT After malloc with THP, 2MB - program base pages:257 huge pages:1
+XV6_TEST_OUTPUT Child stats:
+XV6_TEST_OUTPUT Child program base pages:257 huge pages:1
+XV6_TEST_OUTPUT Parent stats:
+XV6_TEST_OUTPUT Parent program base pages:257 huge pages:1
